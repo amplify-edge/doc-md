@@ -7,7 +7,6 @@ New dev taking over and needs some onboarding... I think that approaching it in 
 - alex
 	- alex has some outstanding PR's and so contact him and he can show you where they are on his personal github, and oyu can take them over and merge them.
 
-
 - top versus bottom
 	- one thing about the archi is that main rpeo has some code that is needed to "boot everythig" and yet you also want that same code to boot the examples in the further down repos.
 	- alex refactored everything to get it so it is liek this. Just i think we ran out of time to get the examples in each repo using it.
