@@ -118,4 +118,3 @@ Changes are grouped under the following standard headings, to make it easier to 
 ## database backups
 
 - snapshotting, streaming full and incremental backups to local or remotes sysems to ensure that a server failure is not catastrophic.
-
